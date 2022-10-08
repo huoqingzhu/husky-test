@@ -1,7 +1,7 @@
 module.exports = {
   types: [
     { value: 'feat', name: '✨feat:     新功能' },
-    { value: 'fix', name: '🐛fix:      修复' },
+    { value: 'fix', name: '🐛fix:      修复s' },
     { value: 'docs', name: '✏️docs:     文档变更' },
     { value: 'style', name: '💄style:    代码格式(不影响代码运行的变动)' },
     {
