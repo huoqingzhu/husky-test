@@ -11,9 +11,9 @@
   },
   "config": {
     "commitizen": {
-        "path": "./node_modules/cz-customizable"
+      "path": "./node_modules/cz-customizable"
     }
-},
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/huoqingzhu/husky-test.git"
@@ -31,6 +31,7 @@
   "dependencies": {
     "@commitlint/cli": "^17.1.2",
     "@commitlint/config-conventional": "^17.1.0",
-    "cz-customizable": "^7.0.0"
+    "cz-customizable": "^7.0.0",
+    "git-cz": "^4.9.0"
   }
 }
